@@ -1,4 +1,4 @@
-# Info21 v1.0
+# Info21 v1.0 (done with [njohanne](https://github.com/njohanne))
 
 Data analysis and statistics for School 21.
 
